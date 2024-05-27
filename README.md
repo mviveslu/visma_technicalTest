@@ -1,6 +1,6 @@
 ### Install dependencies
 ```sh
-npm run build
+npm install
 ```
 
 ### Compile and Hot-Reload for Development
